@@ -1,0 +1,9 @@
+prompts para o chatGPT, após fazer upload da planilha "dados-para-insights.xlsx" na conversa com a IA:
+
+"Utilize a tabela do arquivo acima como base de conhecimento e me dê insights sobre essa tabela de gastos."
+
+"Me dê o total de gastos por mês e por categoria."
+
+"Me diga qual o mês em que mais poupei e qual o valor."
+
+"Nesse ritmo, em quanto tempo conseguirei alcançar minha meta de 20.000,00 em reserva?"
